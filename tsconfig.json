@@ -1,0 +1,9 @@
+{
+    
+    "include": ["./**/*.ts"],
+    
+    "compilerOptions": {
+        "types": ["@types/jest", "@types/node", "pactum-matchers"],
+        "strict": false
+      },
+}

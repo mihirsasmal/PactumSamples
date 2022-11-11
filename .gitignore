@@ -1,0 +1,5 @@
+node_modules
+html-report
+API-TestResult-junit.xml
+# jest coverage
+coverage/
